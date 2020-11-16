@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: How to succeed with the heart of a programmer
+author: Christopher M Dunsford
+email: cdunsford@gmail.com
+description: > When you accept a position that is aligned outside of your heart's desire, how do you move forward. This blog focuses on doing just that. Not only moving forward but succeeding
+in the new role while keeping your heart full with programming tasks.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
